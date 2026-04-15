@@ -70,5 +70,3 @@ The main goals of this repository are:
 ```text
 Cpp-Practice-Notes/
 ├── *.cpp files
-├── Notes / concept files (if any)
-└── Miscellaneous practice programs
