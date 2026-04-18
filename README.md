@@ -13,15 +13,6 @@ A curated set of C++ programs and notes created while following tutorials from t
 - [Source of Learning](#source-of-learning)
 - [Purpose](#purpose)
 - [Repository Structure](#repository-structure)
-- [Topics Covered](#topics-covered)
-- [Requirements](#requirements)
-- [How to Use](#how-to-use)
-- [Compilation & Execution](#compilation--execution)
-- [Examples](#examples)
-- [Limitations](#limitations)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
